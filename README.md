@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Kyle Teng
-- 👀 I’m interested in data science
-- 📫 Please reach me @ linkedin.com/in/kyle-teng/
+- 👋 Hi, I’m @Kyle 
 
 <!---
 KyleTe/KyleTe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
